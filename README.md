@@ -29,6 +29,10 @@ When an image get uploaded through the WordPress media manager (including the fe
 
 ## Changelog
 
+**1.2 2020-10-31**
+
+* Refactored the codebase and ensured compatability with newest version of WordPress
+
 **1.1 2016-03-05**
 
 * Feature: Added image dimensions and whether cropped or not to the admin columns in the image sizes list
