@@ -341,6 +341,7 @@ class Easy_Image_Sizes {
                 $dimensions = ($width) ? $width : 'Not Set';
                 $dimensions .= 'x';
                 $dimensions .= ($height) ? $height : 'Not Set';
+                
                 echo $dimensions;
                 
                 break;
