@@ -64,7 +64,7 @@ class Easy_Image_Sizes {
             'post_status'      => 'publish',
         );
         
-        return get_posts( $args );
+        return get_posts($args);
 
     }
 
@@ -341,7 +341,7 @@ class Easy_Image_Sizes {
                 $dimensions = ($width) ? $width : 'Not Set';
                 $dimensions .= 'x';
                 $dimensions .= ($height) ? $height : 'Not Set';
-                
+
                 echo $dimensions;
                 
                 break;
