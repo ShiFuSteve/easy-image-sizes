@@ -3,7 +3,7 @@ Contributors: shifisteve
 Tags: image sizes,images,sizes,media,media sizes,custom sizes,custom image
 Requires at least: 3.9
 Tested up to: 5.5.3
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,9 +36,9 @@ When an image get uploaded through the WordPress media manager (including the fe
 
 == Changelog ==
 
-**1.2 2020-10-31**
+**1.3 2020-10-31**
 
-* Refactored the codebase and ensured compatability with newest version of WordPress
+* Refactored the codebase and ensured compatibility with newest version of WordPress
 
 **1.1.1 2016-05-01**
 

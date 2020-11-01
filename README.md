@@ -29,9 +29,9 @@ When an image get uploaded through the WordPress media manager (including the fe
 
 ## Changelog
 
-**1.2 2020-10-31**
+**1.3 2020-10-31**
 
-* Refactored the codebase and ensured compatability with newest version of WordPress
+* Refactored the codebase and ensured compatibility with newest version of WordPress
 
 **1.1 2016-03-05**
 
